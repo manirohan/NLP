@@ -17,6 +17,7 @@
 # Ignore database files
 *.sqlite
 *.db
+*.json
 
 # Ignore log files
 *.log
