@@ -1,3 +1,36 @@
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+
+# Ignore compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore large image files
+*.png
+*.jpg
+*.jpeg
+*.tiff
+
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+*~
+*.bak
+*.swp
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+*.DS_Store  # macOS system file
+
 *.pyc
 .idea/
 **/.idea/
